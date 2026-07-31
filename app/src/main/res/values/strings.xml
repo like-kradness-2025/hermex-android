@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hermex</string>
+    <string name="widget_title">Hermex</string>
+    <string name="widget_subtitle">タップして開く</string>
+    <string name="widget_new_chat">新しいチャット</string>
+</resources>
